@@ -1,0 +1,8 @@
+seed 0
+map gen 0 1000 1000 1000 1
+mob gen 15.5 10 50 9 2
+mob save mob.txt
+mob proc 0.5
+#cnn load cnn.txt
+cnn save cnn.txt
+cnn start
