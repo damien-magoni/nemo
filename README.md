@@ -10,8 +10,10 @@ between mobile nodes by creating, destroying or changing the characteristics of 
 It is implemented in C++ and uses some Boost libraries. 
 The source code is available here under the LGPLv3, 
 however, it is also included in NEmu and it is recommended to use NEmu for emulating virtual mobile networks.
-If you use either nemo or NEmu for your research or educational work, 
-please cite: Network Emulator: a Network Virtualization Testbed for Overlay Experimentations. 
-Vincent Autefage, Damien Magoni. 
-CAMAD'12 - IEEE International Workshop on Computer-Aided Modeling Analysis and 
-Design of Communication Links and Networks, pp. 38-42, September 17-19, 2012, Barcelona, Spain.
+
+If you use either nemo or NEmu for your research or educational work, please cite: 
+
+	Network Emulator: a Network Virtualization Testbed for Overlay Experimentations. 
+	Vincent Autefage, Damien Magoni. 
+	CAMAD'12 - IEEE International Workshop on Computer-Aided Modeling Analysis and 
+	Design of Communication Links and Networks, pp. 38-42, September 17-19, 2012, Barcelona, Spain.
